@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "Test",
-    "owner": "DML"
+    "owner": "DML",
+    "description": "Test Threat Dragon"
   },
   "detail": {
     "contributors": [],
